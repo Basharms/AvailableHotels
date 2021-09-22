@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.maf.hotels.service;
+
+/**
+ * @author Administrator
+ *
+ */
+public class AvailableHotelsService {
+
+}
